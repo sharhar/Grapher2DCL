@@ -1,0 +1,5 @@
+﻿  CLMath.cpp
+c:\users\wiish\documents\visual studio 2015\projects\clgrapher\cltest\clutils.h(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\wiish\documents\visual studio 2015\projects\clgrapher\cltest\clutils.h(50): warning C4018: '<': signed/unsigned mismatch
+  CLTest.vcxproj -> C:\Users\wiish\Documents\Visual Studio 2015\Projects\ClGrapher\x64\Debug\CLTest.exe
+  CLTest.vcxproj -> C:\Users\wiish\Documents\Visual Studio 2015\Projects\ClGrapher\x64\Debug\CLTest.pdb (Partial PDB)
